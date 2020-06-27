@@ -5,7 +5,7 @@ from lila_api_call import isOnline
 PIN = 2
 
 GPIO.setmode(GPIO.BCM)
-GPIO.setwarning(False)
+GPIO.setwarnings(False)
 GPIO.setup(PIN, GPIO.OUT)
 
 # From: https://lichess.org/api#tag/Users
