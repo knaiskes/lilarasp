@@ -44,5 +44,4 @@ Run script
 $ cd lilarasp/
 $ sudo python3 main.py
 ```
-
-[YouTube](https://www.youtube.com/watch?v=OKR5sdUfYUw)
+[![Project Videp](https://user-images.githubusercontent.com/6069054/85946632-5aca0c80-b94e-11ea-8b0b-5c872698a49e.png)](https://www.youtube.com/watch?v=OKR5sdUfYUw)
