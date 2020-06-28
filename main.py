@@ -25,4 +25,7 @@ async def main():
         await asyncio.sleep(SLEEP_TIME)
 
 if __name__ == '__main__':
-    asyncio.run(main())
+    try:
+        asyncio.run(main())
+    except KeyboardInterrupt:
+        GPIO.output(PIN, GPIO.LOW)
